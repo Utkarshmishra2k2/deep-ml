@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:33:18.250Z",
+  "generated_at": "2026-09-28T08:44:23.878Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-09-28T05:33:16.936Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:745": {
+      "kind": "problem",
+      "id": "745",
+      "title": "Multi-Token Prediction Training Objective",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/745",
+      "path": "problems/0745-multi-token-prediction-training-objective",
+      "first_solved_at": "2026-09-28T08:44:22.487Z",
+      "last_pushed_at": "2026-09-28T08:44:22.487Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
