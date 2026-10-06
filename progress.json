@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:56:03.713Z",
+  "generated_at": "2026-10-06T06:29:52.459Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -91,6 +91,19 @@
       "last_pushed_at": "2026-10-06T05:55:56.098Z",
       "language": "sql",
       "lines": 18
+    },
+    "problem:1167": {
+      "kind": "problem",
+      "id": "1167",
+      "title": "Merge Intervals and Interval List Intersections",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1167",
+      "path": "problems/1167-merge-intervals-and-interval-list-intersections",
+      "first_solved_at": "2026-10-06T06:29:51.588Z",
+      "last_pushed_at": "2026-10-06T06:29:51.588Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
