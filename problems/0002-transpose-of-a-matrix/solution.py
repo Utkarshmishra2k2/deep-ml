@@ -11,4 +11,14 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
         The transposed matrix of shape (n, m)
     """
     # Your code here
-    return np.transpose(a)
+    result = []
+
+    for col in range(len(a[0])):
+        new_row = []
+
+        for row in a:
+            new_row.append(row[col])
+
+        result.append(new_row)
+
+    return result
