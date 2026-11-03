@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:06:44.385Z",
+  "generated_at": "2026-11-03T04:08:58.679Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -337,6 +337,19 @@
       "last_pushed_at": "2026-11-03T04:06:43.152Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:1189": {
+      "kind": "problem",
+      "id": "1189",
+      "title": "Parallel Reduction (Block Sum) CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1189",
+      "path": "problems/1189-parallel-reduction-block-sum-cuda-kernel",
+      "first_solved_at": "2026-11-03T04:08:57.396Z",
+      "last_pushed_at": "2026-11-03T04:08:57.396Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
