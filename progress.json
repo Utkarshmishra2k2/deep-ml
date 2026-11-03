@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:39:01.915Z",
+  "generated_at": "2026-11-03T05:42:10.855Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -532,6 +532,19 @@
       "last_pushed_at": "2026-11-03T05:39:01.318Z",
       "language": "sql",
       "lines": 67
+    },
+    "problem:1461": {
+      "kind": "problem",
+      "id": "1461",
+      "title": "New Versus Returning Users per Month",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1461",
+      "path": "problems/1461-new-versus-returning-users-per-month",
+      "first_solved_at": "2026-11-03T05:42:08.484Z",
+      "last_pushed_at": "2026-11-03T05:42:08.484Z",
+      "language": "sql",
+      "lines": 25
     }
   }
 }
