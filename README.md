@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 30 problems · 3 labs · 7 math
+**41** solved · 31 problems · 3 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-03 | [solution](problems/1109-your-first-join) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-02 | [solution](problems/0334-cholesky-decomposition) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-28 | [solution](problems/0151-dropout-layer) |
+| [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-03 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-30 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-30 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Merge Intervals and Interval List Intersections](https://www.deep-ml.com/problems/1167) | medium | 2026-10-06 | [solution](problems/1167-merge-intervals-and-interval-list-intersections) |
