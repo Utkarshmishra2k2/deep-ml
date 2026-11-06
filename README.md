@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 33 problems · 3 labs · 7 math
+**44** solved · 34 problems · 3 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-03 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
+| [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-11-06 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-03 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Weekly Cohort Retention with a Week-over-Week Drop Flag](https://www.deep-ml.com/problems/1471) | medium | 2026-11-03 | [solution](problems/1471-weekly-cohort-retention-with-a-week-over-week-drop-flag) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-02 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
