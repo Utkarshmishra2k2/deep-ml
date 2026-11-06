@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 34 problems · 3 labs · 7 math
+**45** solved · 35 problems · 3 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-11-03 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-28 | [solution](problems/0083-dot-product-calculator) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-03 | [solution](problems/1103-filter-rows-with-where) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-06 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-06 | [solution](problems/0042-implement-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-28 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-11-03 | [solution](problems/1105-remove-duplicates-with-distinct) |
