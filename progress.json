@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:09:21.347Z",
+  "generated_at": "2026-11-06T09:12:17.935Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -595,6 +595,19 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-11-06T09:09:20.537Z",
       "last_pushed_at": "2026-11-06T09:09:20.537Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-11-06T09:12:17.303Z",
+      "last_pushed_at": "2026-11-06T09:12:17.303Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
