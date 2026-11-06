@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:12:17.935Z",
+  "generated_at": "2026-11-06T09:13:51.577Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -605,9 +605,9 @@
       "url": "https://www.deep-ml.com/problems/121",
       "path": "problems/0121-vector-element-wise-sum",
       "first_solved_at": "2026-11-06T09:12:17.303Z",
-      "last_pushed_at": "2026-11-06T09:12:17.303Z",
+      "last_pushed_at": "2026-11-06T09:13:50.945Z",
       "language": "python",
-      "lines": 10
+      "lines": 7
     }
   }
 }
