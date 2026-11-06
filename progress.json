@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:46:41.024Z",
+  "generated_at": "2026-11-06T04:48:24.122Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -571,6 +571,19 @@
       "last_pushed_at": "2026-11-06T04:46:40.376Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1641": {
+      "kind": "problem",
+      "id": "1641",
+      "title": "Regex to DFA Token Masks for Structured Output",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1641",
+      "path": "problems/1641-regex-to-dfa-token-masks-for-structured-output",
+      "first_solved_at": "2026-11-06T04:48:23.498Z",
+      "last_pushed_at": "2026-11-06T04:48:23.498Z",
+      "language": "python",
+      "lines": 210
     }
   }
 }
