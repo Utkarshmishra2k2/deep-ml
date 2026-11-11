@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:46:22.956Z",
+  "generated_at": "2026-11-11T03:58:55.782Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -749,6 +749,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-11-09T07:43:47.754Z",
       "last_pushed_at": "2026-11-09T07:43:47.754Z"
+    },
+    "problem:725": {
+      "kind": "problem",
+      "id": "725",
+      "title": "Memory Complexity: Full Space-Time vs. ST-Factorized Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/725",
+      "path": "problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention",
+      "first_solved_at": "2026-11-11T03:58:55.145Z",
+      "last_pushed_at": "2026-11-11T03:58:55.145Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
