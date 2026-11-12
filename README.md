@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 50 problems · 4 labs · 10 math
+**65** solved · 51 problems · 4 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-11-03 | [solution](problems/1102-select-specific-columns) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-06 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-03 | [solution](problems/1104-sort-results-with-order-by) |
+| [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-11-12 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-11-03 | [solution](problems/1106-top-n-with-limit) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-06 | [solution](problems/0121-vector-element-wise-sum) |
