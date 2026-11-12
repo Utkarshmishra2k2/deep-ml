@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 51 problems · 4 labs · 10 math
+**66** solved · 52 problems · 4 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-03 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Weekly Cohort Retention with a Week-over-Week Drop Flag](https://www.deep-ml.com/problems/1471) | medium | 2026-11-03 | [solution](problems/1471-weekly-cohort-retention-with-a-week-over-week-drop-flag) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-02 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
+| [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-11-12 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Kronecker Products Without Forming Them](https://www.deep-ml.com/problems/1779) | hard | 2026-11-09 | [solution](problems/1779-kronecker-products-without-forming-them) |
 | [MoE Run-Health Monitor: Spikes, Loss Alarm, Routing Collapse and Rogue Experts](https://www.deep-ml.com/problems/1990) | hard | 2026-11-09 | [solution](problems/1990-moe-run-health-monitor-spikes-loss-alarm-routing-collapse-and-rogue-experts) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-02 | [solution](problems/0201-qr-decomposition) |
