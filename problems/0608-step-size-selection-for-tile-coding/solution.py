@@ -1,3 +1,4 @@
+# Cell 1
 import numpy as np
 
 def tile_coding_step(base_alpha: float, n_tilings: int, weights: list, active_tiles: list, target: float) -> dict:
