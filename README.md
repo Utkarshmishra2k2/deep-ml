@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 60 problems · 5 labs · 10 math
+**76** solved · 61 problems · 5 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-02 | [solution](problems/0201-qr-decomposition) |
 | [Regex to DFA Token Masks for Structured Output](https://www.deep-ml.com/problems/1641) | hard | 2026-11-06 | [solution](problems/1641-regex-to-dfa-token-masks-for-structured-output) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-15 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
 
