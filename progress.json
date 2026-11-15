@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:17:36.516Z",
+  "generated_at": "2026-11-15T10:40:57.895Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -903,6 +903,19 @@
       "last_pushed_at": "2026-11-13T06:17:35.619Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1187": {
+      "kind": "problem",
+      "id": "1187",
+      "title": "Tiled Matrix Multiply CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1187",
+      "path": "problems/1187-tiled-matrix-multiply-cuda-kernel",
+      "first_solved_at": "2026-11-15T10:40:57.185Z",
+      "last_pushed_at": "2026-11-15T10:40:57.185Z",
+      "language": "python",
+      "lines": 99
     }
   }
 }
