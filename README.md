@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 61 problems · 5 labs · 10 math
+**77** solved · 62 problems · 5 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-09-28 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [New Versus Returning Users per Month](https://www.deep-ml.com/problems/1461) | medium | 2026-11-03 | [solution](problems/1461-new-versus-returning-users-per-month) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-03 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Order-n Polynomial Basis for Value Prediction](https://www.deep-ml.com/problems/1690) | medium | 2026-11-16 | [solution](problems/1690-order-n-polynomial-basis-for-value-prediction) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-03 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
