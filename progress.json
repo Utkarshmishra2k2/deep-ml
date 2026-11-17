@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:55:44.680Z",
+  "generated_at": "2026-11-17T05:01:52.521Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -992,6 +992,17 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-11-17T04:55:43.759Z",
       "last_pushed_at": "2026-11-17T04:55:43.759Z"
+    },
+    "math:39": {
+      "kind": "math",
+      "id": "39",
+      "title": "Bias–Variance Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/39",
+      "path": "math/0039-bias-variance-decomposition",
+      "first_solved_at": "2026-11-17T05:01:50.803Z",
+      "last_pushed_at": "2026-11-17T05:01:50.803Z"
     }
   }
 }
