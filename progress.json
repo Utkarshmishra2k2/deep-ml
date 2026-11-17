@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:01:52.521Z",
+  "generated_at": "2026-11-17T05:10:06.505Z",
   "items": {
     "problem:12": {
       "kind": "problem",
@@ -1003,6 +1003,19 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-11-17T05:01:50.803Z",
       "last_pushed_at": "2026-11-17T05:01:50.803Z"
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-11-17T05:10:05.510Z",
+      "last_pushed_at": "2026-11-17T05:10:05.510Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
