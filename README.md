@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 66 problems · 5 labs · 12 math
+**84** solved · 67 problems · 5 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-03 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
 | [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-11-06 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
+| [Running Total and Moving Average with Window Frames](https://www.deep-ml.com/problems/1116) | medium | 2026-11-23 | [solution](problems/1116-running-total-and-moving-average-with-window-frames) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-11-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-03 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Weekly Cohort Retention with a Week-over-Week Drop Flag](https://www.deep-ml.com/problems/1471) | medium | 2026-11-03 | [solution](problems/1471-weekly-cohort-retention-with-a-week-over-week-drop-flag) |
